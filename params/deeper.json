@@ -1,0 +1,9 @@
+{
+    "conv_kernels": [3, 3, 3, 3],
+    "conv_filters": [32, 64, 64, 64],
+    "padding": "SAME",
+    "dense_nodes": [1024, 128],
+    "target": "angle",
+    "dropout_rate": 0,
+    "use_batch_norm": true
+}
